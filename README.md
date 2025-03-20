@@ -1,26 +1,8 @@
 # 2025_YOON
 2025년 프로그래밍언어 활용 1학기
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>나의 홈페이지</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>장승윤의 홈페이지입니다.</h1>
-    </header>
+![GitHub followers](https://img.shields.io/github/followers/Jangseungyoon?style=social)
+![image](https://github.com/user-attachments/assets/46a4d01c-c3ee-468b-82ba-f4ee17942d89)
 
-    <section>
-        <h2>홈페이지 내용</h2>
-        <p>이곳은 나의 첫 번째 웹사이트입니다.</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2025 나의 웹사이트</p>
-    </footer>
-</body>
-</html>
+![GitHub stars](https://img.shields.io/github/stars/Jangseungyoon?style=social)
+![image](https://github.com/user-attachments/assets/fffd96a9-3e47-4dbd-b38f-75ae979c9171)
