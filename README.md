@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website!</h1>
+        <h1>장승윤의 홈페이지입니다.</h1>
     </header>
 
     <section>
